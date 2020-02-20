@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`color picker should write the right component  1`] = `
+<ColorPicker
+  circleSize={28}
+  circleSpacing={14}
+  color={
+    Object {
+      "a": 1,
+      "h": 250,
+      "l": 0.2,
+      "s": 0.5,
+    }
+  }
+  colors={
+    Array [
+      "#f44336",
+      "#e91e63",
+      "#9c27b0",
+      "#673ab7",
+      "#3f51b5",
+      "#2196f3",
+      "#03a9f4",
+      "#fff",
+      "#009688",
+      "#4caf50",
+      "#8bc34a",
+      "#cddc39",
+      "#ffeb3b",
+      "#ffc107",
+      "#ff9800",
+      "#000",
+      "#795548",
+      "#607d8b",
+    ]
+  }
+  styles={Object {}}
+  width={252}
+/>
+`;

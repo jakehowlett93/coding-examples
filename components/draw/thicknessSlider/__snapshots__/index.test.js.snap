@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`thickness slider should write the right component  1`] = `
+<div>
+  <input
+    id="thickness"
+    max="101"
+    min="1"
+    onChange={[Function]}
+    step="10"
+    type="range"
+  />
+</div>
+`;

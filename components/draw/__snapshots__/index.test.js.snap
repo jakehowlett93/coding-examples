@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`draw should draw the draw component 1`] = `
+<div
+  className="draw"
+>
+  <div
+    className="canvasContainer"
+  >
+    <canvas
+      className="gameCanvas"
+      height="720"
+      id="canvas"
+      onMouseDown={[Function]}
+      onMouseMove={[Function]}
+      onMouseUp={[Function]}
+      width="1280"
+    />
+  </div>
+  <ColorPicker
+    state={
+      Object {
+        "room": Object {
+          "roundType": "draw",
+        },
+        "textGuess": "hello",
+      }
+    }
+  />
+  <ThicknessSlider
+    state={
+      Object {
+        "room": Object {
+          "roundType": "draw",
+        },
+        "textGuess": "hello",
+      }
+    }
+  />
+  <button
+    className="submit"
+    onClick={[Function]}
+    type="button"
+  >
+    Submit
+  </button>
+</div>
+`;

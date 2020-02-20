@@ -1,0 +1,7 @@
+li p.waiting {
+	color: red;
+}
+
+li p.ready {
+	color: green;
+}

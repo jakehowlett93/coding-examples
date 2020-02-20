@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`playerBar should write the right component  1`] = `
+<div
+  className="playerBar"
+>
+  <h1>
+    Players: 
+  </h1>
+  <ul
+    className="playerList"
+  >
+    <li>
+      <p
+        className="waiting"
+      >
+        jake
+      </p>
+    </li>
+    <li>
+      <p
+        className="waiting"
+      >
+        joe
+      </p>
+    </li>
+    <li>
+      <p
+        className="waiting"
+      >
+        ben
+      </p>
+    </li>
+    <li>
+      <p
+        className="waiting"
+      >
+        ant
+      </p>
+    </li>
+  </ul>
+</div>
+`;
